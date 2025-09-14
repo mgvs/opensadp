@@ -1,0 +1,4 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/mappu/miqt v0.11.2 h1:erXnheYNbWh9a7QGNzfVDENlkuwiSw0VJH7Rw6uXBLs=
+github.com/mappu/miqt v0.11.2/go.mod h1:xFg7ADaO1QSkmXPsPODoKe/bydJpRG9fgCYyIDl/h1U=

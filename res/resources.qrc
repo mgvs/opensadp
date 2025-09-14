@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/opensadp">
+    <file>sadp.ico</file>
+    <file>version.txt</file>
+  </qresource>
+</RCC>
+
